@@ -1,0 +1,19 @@
+{
+  "name": "twitter-scout",
+  "version": "0.0.0",
+  "description": "Scout Twitter handles",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephen/twitter-scout"
+  },
+  "author": "Stephen Wan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephen/twitter-scout/issues"
+  },
+  "homepage": "https://github.com/stephen/twitter-scout"
+}
